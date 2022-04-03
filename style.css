@@ -1,0 +1,33 @@
+body {
+	background-color: #afafaf;
+	font-family: Helvetica, sans-serif;
+}
+
+li a {
+	font-weight: bold;
+	color: #9932cc;
+	font-size: 28px;
+}
+
+.intro, .delicious {
+	font-size: 28px;
+	color: white;
+}
+
+#title {
+	color: darkkhaki;
+	background-color: rgb(139, 0, 0);
+}
+
+.delicious {
+	font-style: normal;
+}
+
+.intro.text {
+	font-style: italic;
+}
+
+img {
+	height: auto;
+	width: 500px;
+}
